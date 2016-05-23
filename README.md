@@ -1,3 +1,3 @@
-# FisiereCalculator
+# FisiereCalculator(c#)
 
-Aplicatia gestioneaza fisierele din calculator.
+Aplicatia gestioneaza fisierele din calculator .
